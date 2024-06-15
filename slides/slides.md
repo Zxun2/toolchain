@@ -2,7 +2,7 @@
 marp: true
 theme: default
 paginate: true
-title: CS2109s Tutorial 6
+title: Modern toolchain
 math: mathjax
 ---
 
